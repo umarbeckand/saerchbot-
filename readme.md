@@ -18,7 +18,4 @@
 
 ## 📦 Установка и запуск
 
-### 1. Клонирование репозитория
-```bash
-git clone https://github.com/your-username/dai-foto-bot.git
-cd dai-foto-bot
+ 
